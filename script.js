@@ -17,7 +17,7 @@ inputUser.addEventListener('keyup', () =>{
     validUs = false
     inputUser.setAttribute('style', 'border: 1px #be0000e1 solid')
     labelUser.setAttribute('style', 'color: #be0000e1')
-    labelUser.innerHTML = "*Insira no minimo 3 caractes";
+    labelUser.innerHTML = "*Insira no minimo 3 caracteres";
    }else{
     inputUser.setAttribute('style', 'border: #00e000 1px solid')
     labelUser.setAttribute('style', 'color: #00e000')
