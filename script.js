@@ -62,7 +62,7 @@ function mostrarSenha(){
     if(validUs && validSenha){
         msg.innerHTML = "Logado"
     }else{
-        msg.innerHTML = "VERIFIQUE OS CAMPOS DESCATADOS"
+        msg.innerHTML = "VERIFIQUE OS CAMPOS DESTACADOS"
     }
 
  }
