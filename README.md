@@ -1,2 +1,2 @@
 # Tela de login 
-# Projeto ainda não está 100% completo
+# Projeto que simula o login de acesso a um sistema 
